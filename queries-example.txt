@@ -1,0 +1,4 @@
+w3.org +noall +answer
+ftp.w3.org +noall +answer
+-t TXT w3.org +noall +answer
+-t MX w3.org +noall +answer
